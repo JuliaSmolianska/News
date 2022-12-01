@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  color: #06283d;
+  background-color: #eaebeb;
+}
+
+h1 {
+  box-shadow: 15px 10px 10px #4c5e69;
+  margin: 1% 10% 5%;
+}
+
+h4 {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.article {
+  white-space: normal;
+}
